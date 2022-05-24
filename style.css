@@ -1,0 +1,37 @@
+body{
+    background-color: blanchedalmond;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.header_div{
+    background-color: black;
+    color: chartreuse;
+    font-weight: bold;
+}
+.header_div p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: beige;
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+}
+button{
+    margin-top: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-size: 30px;
+    background-color: coral;
+}
+.copy_right_footer{
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+background-color:aquamarine;
+color: darkgreen;
+font-size: 20px;
+text-shadow:5px 5px 5px grey;
+}
